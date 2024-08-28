@@ -1,0 +1,21 @@
+Nama: Adrian Anugerah Maulana
+Kelas: XI PPLG 1
+
+PERTANYAAN serta JAWABAN
+1. Jelaskan apa itu Jre ? Apa kegunaannya!
+JRE atau singkatan dari Java Runtime Environment adalah teknologi dasar yang melakukan komunikasi antara program Java dan sistem operasi.
+
+2. Jelaskan apa itu JDK?
+JRE bertindak sebagai penerjemah dan fasilitator, menyediakan semua sumber daya sehingga setelah Anda menulis perangkat lunak Java, JRE berjalan pada sistem operasi apa pun tanpa modifikasi lebih lanjut.
+
+3. Jelaskan apa itu Java Virtual Machine?
+Java Virtual Machine atau disingkat JVM merupakan mesin virtual yang digunakan secara khusus mengeksekusi berkas bytecode java.
+
+4. Jelaskan tahap membuat projek aplikasi baru dan class baru di netbeans!
+Hal pertama yang dilakukan adalah tentunya buka Netbeans, lalu klik bagian tab “File” dan klik “New Project”, lalu kalian bisa pilih untuk kategorinya, ada Java with Maven, Java with Gradle, Java with Ants, dan masih ada banyak lagi. Setelah itu klik Projects yang ada bertuliskan “Application”. Kita bisa setting atau atur nama Projek atau Aplikasi tersebut dengan mengubahnya. Kita juga bisa mengubah hal lain seperti Lokasi Projek, ID Grup, Versi dari aplikasinya, dan nama package dari aplikasi tersebut. Terakhir kalian bisa membuat kode-kode untuk aplikasi tersebut, selamat mengerjakan 😊. 
+
+5. Berdasarkan jenis , aplikasi apa saja yang dapat dibuat dengan menggunakan pemrograman Java?
+Jika berdasarkan jenis, maka hasilnya ada banyak yakni seperti Aplikasi desktop, Mobile apps, Aplikasi Perbankan dan Keuangan, Games, dll.
+
+6. Berdasarkan platform , platform apa saja pada Java?
+Ada Java SE atau disingkat Java Standard Edition, JavaFX, Java EE atau bisa disingkat juga Java Enterprise Edition, dan Java Micro Edition. Selain itu juga masih ada banyak, namun saya ringkaskan saja dalam jawaban ini.
