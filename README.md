@@ -1,5 +1,5 @@
-<h1 style="text-align:center;">Welcome!</h1>
+<h1>Welcome!</h1>
 
 <br>
 
-![Badge Name](https://img.shields.io/badge/Badge_Name-Value-green)
+<img alt="GitHub License" src="https://img.shields.io/github/license/ADARIYA0/Pemrograman-Berorientasi-Objek-Java">
