@@ -3,6 +3,6 @@
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/ADARIYA0/Pemrograman-Berorientasi-Objek-Java">
 </div>
 
-<div align="center">
+<div align="center" style="width:50%;">
   <img src="src/img/java.png">
 </div>
