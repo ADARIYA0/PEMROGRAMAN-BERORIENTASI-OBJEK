@@ -1,1 +1,11 @@
-<h1 style="text-align:center;">Welcome!</h1>
+<head>
+  <style>
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Welcome!</h1>
+</body>
