@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-  <img src="src/img/java.png" width="50%">
+  <img src="src/img/java.png" width="50">
 </div>
