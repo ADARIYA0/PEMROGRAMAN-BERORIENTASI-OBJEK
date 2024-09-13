@@ -3,4 +3,4 @@
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/ADARIYA0/Pemrograman-Berorientasi-Objek-Java">
 </div>
 
-<h1 align="center">Welcome!</h1>
+<img src="src/img/java.png">
