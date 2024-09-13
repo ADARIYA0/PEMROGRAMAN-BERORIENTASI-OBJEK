@@ -2,4 +2,4 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ADARIYA0.visitor-badge&left_text=Visitors" />
+![Badge Name](https://img.shields.io/badge/Badge_Name-Value-green)
