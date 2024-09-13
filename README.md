@@ -2,4 +2,4 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Pemrograman-Berorientasi-Objek-Java.visitor-badge&left_text=Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ADARIYA0.visitor-badge&left_text=Visitors" />
